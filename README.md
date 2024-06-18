@@ -12,13 +12,13 @@ The ALTER TABLE statement is also used to add and drop various constraints on an
 > Alter table table_name
 Add column column_name <dtype>
 
--	Adding a new column and making it the first column
+###	Adding a new column and making it the first column
 	
 	 Syntax
 > Alter table table_name
 Add column column_name <dtype> first
 
--	Adding a new column to a specific position
+###	Adding a new column to a specific position
 	
 	 Syntax
 > Alter table table_name
@@ -36,7 +36,7 @@ Drop column column_name
 > Alter table table_name
 Add primary key (column_name)
 
--	Delete the primary key from your table
+###	Delete the primary key from your table
 	
 	syntax
 > Alter table table_name
@@ -49,7 +49,7 @@ drop primary key
 Add foreign key (column_name)
 References table_name (column_name)
 
--	delete a forein key from a table
+###	delete a forein key from a table
 	
 	syntax
 > Alter table table_name
@@ -61,7 +61,7 @@ drop foreign key
 > Alter table table_name
 Add index index_name (column_name_of_your_index)
 
--	to remove an index from your table
+###	to remove an index from your table
 	
 	syntax
 > Alter table table_name
