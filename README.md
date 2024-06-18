@@ -33,6 +33,9 @@ Add column column_name <dtype>  (after column_name)
 > Alter table table_name
 Drop column column_name
 
+ ![q](https://github.com/allan-pg/alter-in-MYSQL/assets/62595869/dec5cfff-cafc-4cbe-9962-e62d76d97ef9)
+
+
 ###	Adding a primary key to your table’
 
 	Syntax
