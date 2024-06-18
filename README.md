@@ -14,13 +14,13 @@ Add column column_name <dtype>
 
 -	Adding a new column and making it the first column
 	
- Syntax
+	 Syntax
 > Alter table table_name
 Add column column_name <dtype> first
 
 -	Adding a new column to a specific position
 	
- Syntax
+	 Syntax
 > Alter table table_name
 Add column column_name <dtype>  (after column_name)
 
@@ -32,14 +32,14 @@ Drop column column_name
 
 ###	Adding a primary key to your table’
 
--	Syntax
+	Syntax
 > Alter table table_name
 Add primary key (column_name)
 
 -	Delete the primary key from your table
 	
->	syntax
-Alter table table_name
+	syntax
+> Alter table table_name
 drop primary key 
 
 ###	adding a foreign key to a table
@@ -51,13 +51,13 @@ References table_name (column_name)
 
 -	delete a forein key from a table
 	
--	syntax
+	syntax
 > Alter table table_name
 drop foreign key 
 
 ###	add an index to a table
 
--	syntax
+	syntax
 > Alter table table_name
 Add index index_name (column_name_of_your_index)
 
