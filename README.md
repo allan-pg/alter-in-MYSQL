@@ -62,6 +62,7 @@ drop foreign key
 Add index index_name (column_name_of_your_index)
 
 -	to remove an index from your table
+	
 	syntax
 > Alter table table_name
 Drop index index_name
