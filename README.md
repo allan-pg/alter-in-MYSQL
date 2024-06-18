@@ -21,6 +21,9 @@ Add column column_name <dtype>
 > Alter table table_name
 Add column column_name <dtype> first
 
+ ![q](https://github.com/allan-pg/alter-in-MYSQL/assets/62595869/1058527d-c08f-4d1d-bd40-ddd799b19ee8)
+
+
 ###	Adding a new column to a specific position
 	
 	 Syntax
