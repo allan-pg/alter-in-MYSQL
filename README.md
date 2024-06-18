@@ -1,4 +1,4 @@
-# alter in MYSQL
+# Alter in MYSQL
 
 # Introduction
 
