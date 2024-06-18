@@ -12,6 +12,9 @@ The ALTER TABLE statement is also used to add and drop various constraints on an
 > Alter table table_name
 Add column column_name <dtype>
 
+![q](https://github.com/allan-pg/alter-in-MYSQL/assets/62595869/64281aaf-75f9-4043-891f-c62e5f52fa5b)
+
+
 ###	Adding a new column and making it the first column
 	
 	 Syntax
