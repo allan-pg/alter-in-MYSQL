@@ -28,7 +28,9 @@ Add column column_name <dtype> first
 	
 	 Syntax
 > Alter table table_name
-Add column column_name <dtype>  (after column_name)
+ Add column column_name <dtype>  (after column_name)
+
+![q](https://github.com/allan-pg/alter-in-MYSQL/assets/62595869/75ea83bc-decb-478e-8a3b-e698aa79f003)
 
 ###	Delete a column from your table
 
@@ -45,11 +47,17 @@ Drop column column_name
 > Alter table table_name
 Add primary key (column_name)
 
+ ![q](https://github.com/allan-pg/alter-in-MYSQL/assets/62595869/25348a96-abfd-45b8-8b75-4c1fd3a470b1)
+
+
 ###	Delete the primary key from your table
 	
 	syntax
 > Alter table table_name
-drop primary key 
+drop primary key
+
+ ![q](https://github.com/allan-pg/alter-in-MYSQL/assets/62595869/0f6af475-63c7-4a67-854f-9ad8dd412405)
+
 
 ###	adding a foreign key to a table
 
@@ -57,6 +65,9 @@ drop primary key
 > Alter table table_name
 Add foreign key (column_name)
 References table_name (column_name)
+
+ ![q](https://github.com/allan-pg/alter-in-MYSQL/assets/62595869/9dbc2494-a7da-4591-8d13-f9a341c56324)
+
 
 ###	delete a forein key from a table
 	
@@ -70,11 +81,17 @@ drop foreign key
 > Alter table table_name
 Add index index_name (column_name_of_your_index)
 
+ ![q](https://github.com/allan-pg/alter-in-MYSQL/assets/62595869/36ed778b-2fb2-4446-b7ae-dcbc76dd9e75)
+
+
 ###	to remove an index from your table
 	
 	syntax
 > Alter table table_name
-Drop index index_name
+  Drop index index_name
+
+ ![q](https://github.com/allan-pg/alter-in-MYSQL/assets/62595869/00c90927-a758-4bfe-828c-b31bb6fdc2f3)
+
 
 ## Conclusion
 
