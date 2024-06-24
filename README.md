@@ -95,4 +95,4 @@ Add index index_name (column_name_of_your_index)
 
 ## Conclusion
 
- - Alter command will perform the action on structure level and not on the data level. Update command will perform on the data level.
+ Alter command will perform the action on structure level and not on the data level. ALTER TABLE changes the structure of a table. For example, you can add or delete columns, create or destroy indexes, change the type of existing columns, or rename columns or the table itself.
